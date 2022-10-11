@@ -26,3 +26,4 @@ for (let i=0; i<10; i++){
         biodata[i].style.color='black';
         biodata[i].style.fontSize='20px'; 
 }
+
